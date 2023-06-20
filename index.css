@@ -1,4 +1,41 @@
-.whole{
-  height: 100%;
-  width: 100%;
+/*universal styling*/
+body{
+  background-color: grey;
+
+}
+div{ 
+  border: solid;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 5px;
+}
+/*universal styling end*/
+
+.whole{  /*outer main box*/
+  height: 98vh;
+  width: 98vw; 
+  border: none;
+}
+
+.torso{ /*main content*/
+  height: 99vh;
+  width: 50vw;
+  margin: auto;
+  
+}
+
+.bar{
+  width: 96%;
+  height: 10%;
+  margin:auto;
+  margin-top: 1.75%;
+ 
+}
+
+.name{
+  height:90%;
+  width: 75%;
+  border-width: 0.1px;
+  margin: auto;
+  margin-top: .5%;
 }
