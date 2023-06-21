@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199092973836",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Sleep",
+        "profileurl": "https://steamcommunity.com/profiles/76561199092973836/",
+        "avatar": "https://avatars.steamstatic.com/6a3461814fb68bf6e9c2f6974da3ae3991503436.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/6a3461814fb68bf6e9c2f6974da3ae3991503436_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/6a3461814fb68bf6e9c2f6974da3ae3991503436_full.jpg",
+        "avatarhash": "6a3461814fb68bf6e9c2f6974da3ae3991503436",
+        "lastlogoff": 1687232415,
+        "personastate": 1,
+        "realname": "huh",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1600743247,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

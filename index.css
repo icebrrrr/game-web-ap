@@ -38,4 +38,6 @@ div{
   border-width: 0.1px;
   margin: auto;
   margin-top: .5%;
+  border-color: white; /*if the div is white then -  remove it later after getting the info for set div*/
+  
 }
