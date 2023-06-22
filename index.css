@@ -41,3 +41,7 @@ div{
   border-color: white; /*if the div is white then -  remove it later after getting the info for set div*/
   
 }
+
+.name-drop-box{
+  color: black;
+}
