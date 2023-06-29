@@ -32,6 +32,7 @@ div{
  
 }
 
+
 .name{
   height:90%;
   width: 75%;
@@ -43,7 +44,7 @@ div{
 }
 
 .name-drop-box{
-  color: black;
+  color: black;                          
   font-family: sans-serif;
   font-size: 200%;
   text-align: center;
@@ -66,7 +67,7 @@ div{
 }
 
 .button{
-  
+  color: black;
 }
 
 .genre-filter-bar{
