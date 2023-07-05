@@ -19,7 +19,7 @@ div{
 
 .torso{ /*main content*/
   height: 99vh;
-  width: 50vw;
+  width: 75vw;
   margin: auto;
   
 }
@@ -38,7 +38,7 @@ div{
   width: 75%;
   border-width: 0.1px;
   margin: auto;
-  margin-top: .5%;
+  margin-top: .25%;
   border-color: white; /*if the div is white then -  remove it later after getting the info for set div*/
   
 }
@@ -61,20 +61,52 @@ div{
 .all-filter-bar{
   height: 80%;
   width: 25%;
-  margin-top: 1.5%;
+  margin-top: 0.75%;
   margin-left: 15%;
   display: inline-block;
+ 
 }
 
-.button{
-  color: black;
+.choose-all-button{
+  color: white;
+  margin-left: 5%;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: black;
+  box-shadow: none;
+  border-width: 0.1px;
+  outline: none;
+  border: none;
+  margin-top: 0%;
+}
+
+.choose-all-button:active{
+  background-color: black;
+  color: grey;
+}
+
+.choose-genre-button{
+  color: white;
+  margin-left: 5%;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: black;
+  box-shadow: none;
+  border-width: 0.1px;
+  outline: none;
+  border: none;
+  margin-top: 0%;
+}
+.choose-genre-button:active{
+  background-color: black;
+  color: grey;
 }
 
 .genre-filter-bar{
   height: 80%;
   width: 25%;
-  margin-top: 1.5%;
-  margin-left: 15%;
+  margin-top: 0.75%;
+  margin-left: 15%; 
   display: inline-block;
 }
 
